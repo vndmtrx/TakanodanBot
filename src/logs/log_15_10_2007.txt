@@ -1,0 +1,7 @@
+takanodanbot<freenode-connect>VERSION
+takanodanbot<freenode-connect>VERSION
+#omda<Zero_Col>!rcon ping takanodanbot
+#omda<Zero_Col>!rcon ping takanodanbot
+TakanodanBot<Zero_Col>!rcon ping takanodanbot
+TakanodanBot<Zero_Col>!rcon ping takanodanbot
+TakanodanBot<Zero_Col>!rcon ping kubrick.freenode.net

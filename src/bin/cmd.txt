@@ -1,0 +1,39 @@
+1º) !OP -> Coloca Op em você Mesmo
+2º) !OP Nick -> Coloca Op no Nick
+3º) !DEOP -> deop em você Mesmo
+4º) !DEOP Nick -> deop no Nick
+5º) !VOICE -> Coloca voice em você mesmo
+6º) !VOICE Nick -> Coloca Voice no Nick(Somente Administradores)
+7º) !DEVOICE -> devoice em você mesmo(Somente Administradores)
+8º) !DEVOICE Nick -> devoice no Nick(Somente Administradores)
+9º) !KICK Nick -> Kicka o Nick(Somente Administradores)
+10º) !KB nick -> Kicka e Bane o nick(Somente Administradores)
+11º) !INFO IP -> Mostra as Informações de um Ip de CS, se ele Está Off, Etc
+12º) !CHR numero -> Caracter Correspondente ao Numero ASCII
+13º) !ASCII Caracter -> ASCII correspondente ao Caracter
+14º) !HORA -> mostra a hora
+15º) !EXTENSO Numero -> fala o Numero por extenço
+16º) !INFOHOST site -> informação do OS do site
+17º) !ACHAR frase ou palavra -> achar url com a Chave
+18º) !FRASE palavra -> lista frases com as palavras
+19º) !ADDFRASE Frase -> Adiciona Frase na Ai. (Somente Voice ou Operadores)
+20º) !DELFRASE Nº -> remove frase da ai.(Somente Operadores) 
+21º) !DELIA palavra - > deleta palavra do vocabulo do bot(Somente Administradores)
+22º) !ADDDICA dica -> adiciona dica(Somente Voice ou Operadores)
+23º) !DELDICA Nº -> deleta a dica(Somente Operadores)
+24º) !DICA palavra -> lista dicas com os clitérios
+25º) !BDEERRO Nº -> Descrição do Erro do BDE
+26º) !ERRO Nº -> descrição do erro
+27º) !STAT -> lista os estado da configuração do bot em caso de crash
+28º) !CHANGESTAT Boolean -> 0 para desabilitado e 1 para abilitado das configuração do estado da configuração (veja comando 34º)
+29º) !AEXEC -> lista de comando auto executados para o servidor irc quando o bot se conecta
+30º) !DELEXEC Comando -> Comando para deletar da lista de auto-execução do bot (veja comando 36º)
+31º) !ADDEXEC Comando -> comando para adicionar a lista de auto-execução do bot (veja comando 36º)
+32º) !HELP -> envia essa lista de comando :)
+33º) !ADMINS -> lista do administradores do bot que tem acesso a esse comandos
+34º) !DELADMIN Nick -> deleta um administrador da lista (veja comando 40º, Atenção não mecha se não tiver permisão do master)
+35º) !ADDADMIN Nick -> adiciona um administrador da lista (veja comando 40º, Atenção não mecha se não tiver permisão do master)
+36º) !CHANS -> Canais que o bot ficará
+37º) !DELCHAN -> Deleta um canal da lista de canais que o bot fica (veja comando 41º, Atenção não mecha se não tiver permisão do master)
+38º) !ADDCHAN -> adiciona um canal da lista de canais que o bot fica (veja comando 41º, Atenção não mecha se não tiver permisão do master)
+39º) !VERSÃO -> versão do bot =)
