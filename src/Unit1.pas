@@ -185,6 +185,11 @@ end;
 
 {$Warnings on}
 
+(*
+  Função para retirar caracteres de cor de strings de IRC
+  Eduardo Rolim(Vndmtrx) - Knal #DelphiX - [BrasNet]
+  www.vindemiatrix.x-br.com
+*)
 function TFormTakanodanPrincipal.StripIRCColor(Text: String): String;
 
 Type
@@ -234,7 +239,7 @@ begin
            por isto estes normalmente não aparecem em mensagens e podem ser excluídos
            sem risco à interpretação da mensagem.
 
-           Os caracteres de 32 à 127 e os ASCII extendidos são os caracteres de input normais.
+           Os caracteres de 32 a 127 e os ASCII extendidos são os caracteres de input normais.
           }
           //Excluindo outros caracteres de controle simples.
           If Str[I] in [#1 .. #31] then begin
